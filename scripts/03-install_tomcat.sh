@@ -3,7 +3,7 @@
 set -e
 
 # Variables
-TOMCAT_VERSION=10.1.26
+TOMCAT_VERSION=10.1.28
 TOMCAT_USER=ubuntu
 TOMCAT_GROUP=ubuntu
 TOMCAT_HOME=/home/ubuntu/tomcat
